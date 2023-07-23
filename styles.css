@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.navbar{
+    height:100px;
+    background-color: aqua;
+}
+.logo1{
+    width:20px;
+    height:20px;
+}
+li{
+    display:inline;
+    
+}
+.right{
+    justify-content: center;
+    float:right;
+}
